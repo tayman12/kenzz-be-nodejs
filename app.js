@@ -3,3 +3,7 @@ function sayHello(name) {
 }
 
 sayHello('Tocka');
+
+
+const message = "Nice to meet you";
+console.log(message);
